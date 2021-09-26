@@ -24,3 +24,6 @@
 
 
 # Ссылки на материалы
+
+Материалы лежат в [папке](https://drive.google.com/drive/folders/1zEmDNG2AWyGIao5x1mKt7bu4ogEuvOhb?usp=sharing) на гугл-диске (разбиты по неделям).
+

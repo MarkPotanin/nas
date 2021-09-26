@@ -23,7 +23,10 @@
 Каждый студент делает краткий доклад на 3 минуты на 7 и 14 неделе по первой лабораторной работе и второй соответственно.
 
 
-# Ссылки на материалы
+# Материалы с лекций
 
-Материалы лежат в [папке](https://drive.google.com/drive/folders/1zEmDNG2AWyGIao5x1mKt7bu4ogEuvOhb?usp=sharing) на гугл-диске (разбиты по неделям).
+Презентации и текст лежат в [папке](https://drive.google.com/drive/folders/1zEmDNG2AWyGIao5x1mKt7bu4ogEuvOhb?usp=sharing) на гугл-диске (разбиты по неделям).
 
+# Дополнительные материалы
+
+* [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)

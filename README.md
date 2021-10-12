@@ -30,3 +30,5 @@
 # Дополнительные материалы
 
 * [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
+* [NAS with reinforcement](https://arxiv.org/pdf/1905.11946.pdf)https://arxiv.org/pdf/1611.01578.pdf)
+* [MNASNet](https://arxiv.org/pdf/1807.11626.pdf)

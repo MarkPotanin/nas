@@ -32,3 +32,5 @@
 * [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)
 * [NAS with reinforcement](https://arxiv.org/pdf/1611.01578.pdf)
 * [MNASNet](https://arxiv.org/pdf/1807.11626.pdf)
+* [NEAT](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+* [Genetic CNN](https://arxiv.org/abs/1703.01513)
